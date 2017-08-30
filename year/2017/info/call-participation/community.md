@@ -50,6 +50,8 @@ Suggested Buddies activities include:
 
 Vis Buddies is in conjunction with the Newcomers Meetup [VIS Newcomers Meetup](/year/2017/info/meetups). Prior to the Meetup, we will have a booth set-up outside to help you connect with your buddies (if you have not done so already). 
 
+You can also proudly show the number of years you’ve attended vis, just grab a sticker at registration!
+
 ### Asynchronous Job Fair
 
 This year, we will be having our first *Asynchronous Job Fair* (AJF) at VIS
@@ -95,6 +97,11 @@ This is an informal, planned lunch where more "IEEE VIS regulars" have the oppor
 * [Wednesday, Oct. 4](https://docs.google.com/document/d/1cVWC7ADPV2ifCC7HHYtUSd1rv2fQiy8NBrHDMeNDUDA/edit?usp=sharing)
 * [Thursday, Oct. 5](https://docs.google.com/document/d/1DhAq-i5VzLthhSqjorbiU3iKZrl3gzOPKesEYVBvt6M/edit?usp=sharing)
 -->
+
+### Other community-building events @VIS that we are aware of (tell us of yours!)
+- [Junior Faculty, Researchers, and Practitioners Happy Hour](http://staging.ieeevis.org/year/2017/info/meetups#junior-faculty)
+- [Career Plans for Women](http://staging.ieeevis.org/year/2017/info/meetups#career-women)
+- [Velo Club de Vis](http://staging.ieeevis.org/year/2017/info/meetups#velo-club)
 
 ### Contact
 
