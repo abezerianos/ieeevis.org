@@ -39,7 +39,7 @@ guarantee that it will be posted to the corkboard by the first day of VIS.*
 
 ### Vis Buddies
 
-VisBuddies brings together new and returning VIS attendees with similar interests. For newcomers, this is a chance to meet experienced researchers in the field. For returning attendees, it is a chance to meet fresh talent joining VIS for the first time. You can volunteer for VisBuddies on the registration form. Based on your declared interests in the registration form, we will match pairs or small groups of attendees with different levels of VIS experience, and contact the groups via email prior to VIS.
+VisBuddies brings together new and returning VIS attendees with similar interests. For newcomers, this is a chance to meet experienced researchers in the field. For returning attendees, it is a chance to meet fresh talent joining VIS for the first time. You can volunteer for VisBuddies on the registration form (the latest a week prior to VIS). Based on your declared interests in the registration form, we will match pairs or small groups of attendees with different levels of VIS experience, and contact the groups via email prior to VIS.
 
 Suggested Buddies activities include:
 
@@ -95,6 +95,11 @@ This is an informal, planned lunch where more "IEEE VIS regulars" have the oppor
 * [Wednesday, Oct. 4](https://docs.google.com/document/d/1cVWC7ADPV2ifCC7HHYtUSd1rv2fQiy8NBrHDMeNDUDA/edit?usp=sharing)
 * [Thursday, Oct. 5](https://docs.google.com/document/d/1DhAq-i5VzLthhSqjorbiU3iKZrl3gzOPKesEYVBvt6M/edit?usp=sharing)
 -->
+
+### Other community-building events in VIS that we are aware of (tell us of yours!)
+- [Junior Faculty, Researchers, and Practitioners Happy Hour](http://staging.ieeevis.org/year/2017/info/meetups#junior-faculty)
+- [Career Plans for Women](http://staging.ieeevis.org/year/2017/info/meetups#career-women)
+- [Velo Club de Vis](http://staging.ieeevis.org/year/2017/info/meetups#velo-club)
 
 ### Contact
 
